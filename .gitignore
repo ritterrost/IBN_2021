@@ -1,3 +1,8 @@
 nimcache/
 nimblecache/
 htmldocs/
+
+
+*
+!*.c
+!Makefile
