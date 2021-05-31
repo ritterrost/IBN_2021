@@ -1,0 +1,9 @@
+{
+    "bus": 64,
+    "page": 12,
+    "ram": 8,
+    "table": "i",
+    "entry": 64,
+    "cmd": "discernTable",
+    "parameters":[1, 100000, 2000000, 2, 300000, 400000]
+}
